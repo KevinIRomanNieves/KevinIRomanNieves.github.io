@@ -1,37 +1,120 @@
-## Welcome to GitHub Pages
+#  My Professional Portfolio
 
-You can use the [editor on GitHub](https://github.com/KevinIRomanNieves/KevinIRomanNieves.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Objective:**
+ 
+ Provide critical analysis, skills and solutions as a Software Engineer to projects development; Also implement trustworthy and functional product that meet the goals of the company.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ADDITIONAL SKILLS:
 
-### Markdown
+**Microsoft Office package :** Microsoft Word, Excel, Access Access, Power Point.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Database operation :** Microsoft Office Access, My SQL.
 
-```markdown
-Syntax highlighted code block
+**Programming:** C++, HTML ,PHP, CSS, My SQL, Java, JavaScript, Python, C#, ABL.
 
-# Header 1
-## Header 2
-### Header 3
+**Software:** Visual Studio Code, Code Blocks, Xammp, Bracket, Eclipse, Open Edge Studio Editor, R.
 
-- Bulleted
-- List
+**Courses Approve:** Programing 1 & 2, Object Oriented |Java-Python|, Data Structured Algorithm Analysis, Discrete Mathematics, Analysis and Development of Algorithms, Mobile Applications Development, Operating System, Computer Architecture, Programming Languages Organization, Database Design, Software Engineering.
 
-1. Numbered
-2. List
+## EDUCATION 
 
-**Bold** and _Italic_ and `Code` text
+University of Puerto Rico at Arecibo
 
-[Link](url) and ![Image](src)
-```
+2015-2020
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Bachelor Degree in Computer Science
 
-### Jekyll Themes
+Minor in Design and Development of Web Applications, 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KevinIRomanNieves/KevinIRomanNieves.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**ABET ACCREDITED**
 
-### Support or Contact
+## WORK EXPERIENCE:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Rock Solid Technologies, Inc.
+
+### 02/2020 – 05/2020
+
+### Software Developer Trainee
+
+**Responsibilities:**
+
+• Fix Bugs in different Test Environments.
+
+• Create Front End User Interface for OneView/Dynamics 365 version 9
+
+• Execute various Test Case on Azure Dev Ops.
+
+• Research and Documentation of Projects.
+
+### CDI TECHNOLOGIES
+### 09/2019 – 12/2019
+### Junior Software Developer Intern
+
+**Responsibilities:**
+
+• Create an API using ABL to connect with an application call Dispatch Track.
+
+• Send and Test correctness of Data in a program service call CDI premium Plus.
+
+• Manage Databases information in Open Edge Progress studio editor.
+
+• Research and Documentation of Project.
+
+
+### University of Puerto Rico at Arecibo
+
+### 08/2016 – 08/2018
+
+### Tutor/Web Master/Secretary
+
+**Responsibilities:**
+
+• Composed C++ programs for Programing I and Programing II online practice Courses.
+
+• Manage Moodle online practice Courses of Programing I and Programing II.
+
+• Mentoring in computer science labs.
+
+• Microsoft OfficeMicrosoft Office documents distribution for workshops, courses promotion and CSSA association meeting.
+
+### Course Projects
+
+1-Prototype for ”Federación Puertorriqueña de Gimnasia Gimnasia” -**Software Engineering Course**
+
+2-Ecommerce **-Databases Course**
+
+3-Biology Study App **-Mobile Applications Course**
+
+
+## References 
+
+**1- Ángel L. Pérez**
+
+Galarza Vice President
+
+Rock Solid Technologies,Inc.
+
+787 2221 7714
+
+**2- Norma Torres**
+
+Professor of the Computer Science Department
+
+Universidad de Puerto Rico en Arecibo
+
+787 485 7355
+
+**3- Héctor Vélez**
+
+Chairman of the Education Committee
+
+San Rafael Cooperativa
+
+787-614-0203
+
+## Contact
+
+**Email:** kevin.roman12@upr.edu or romankevin12@gmail.com 
+
+**LinkedIn:** [https://www.linkedin.com/in/kevin-i-roman-nieves-679298149/]
