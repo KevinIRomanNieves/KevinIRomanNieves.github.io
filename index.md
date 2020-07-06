@@ -21,11 +21,11 @@
 ## WORK EXPERIENCE:
 
 
-### Rock Solid Technologies, Inc.
+**Rock Solid Technologies, Inc.**
 
-### 02/2020 – 05/2020
+**02/2020 – 05/2020**
 
-### Software Developer Trainee
+**Software Developer Trainee**
 
 **Responsibilities:**
 
@@ -37,9 +37,11 @@
 
 • Research and Documentation of Projects.
 
-### CDI TECHNOLOGIES
-### 09/2019 – 12/2019
-### Junior Software Developer Intern
+**CDI TECHNOLOGIES**
+
+**09/2019 – 12/2019**
+
+**Junior Software Developer Intern**
 
 **Responsibilities:**
 
@@ -52,11 +54,11 @@
 • Research and Documentation of Project.
 
 
-### University of Puerto Rico at Arecibo
+**University of Puerto Rico at Arecibo**
 
-### 08/2016 – 08/2018
+**08/2016 – 08/2018**
 
-### Tutor/Web Master/Secretary
+**Tutor/Web Master/Secretary**
 
 **Responsibilities:**
 
