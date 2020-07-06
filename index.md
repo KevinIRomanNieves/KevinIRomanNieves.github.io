@@ -12,21 +12,11 @@
 
 **Programming:** C++, HTML ,PHP, CSS, My SQL, Java, JavaScript, Python, C#, ABL.
 
-**Software:** Visual Studio Code, Code Blocks, Xammp, Bracket, Eclipse, Open Edge Studio Editor, R.
+**Software:** Visual Studio , Visual Studio Code, Code Blocks, Xammp, Bracket, Eclipse, Open Edge Studio Editor, R.
 
 **Courses Approve:** Programing 1 & 2, Object Oriented |Java-Python|, Data Structured Algorithm Analysis, Discrete Mathematics, Analysis and Development of Algorithms, Mobile Applications Development, Operating System, Computer Architecture, Programming Languages Organization, Database Design, Software Engineering.
 
-## EDUCATION 
 
-University of Puerto Rico at Arecibo
-
-2015-2020
-
-Bachelor Degree in Computer Science
-
-Minor in Design and Development of Web Applications, 
-
-**ABET ACCREDITED**
 
 ## WORK EXPERIENCE:
 
@@ -80,18 +70,29 @@ Minor in Design and Development of Web Applications,
 
 ### Course Projects
 
-1-Prototype for ”Federación Puertorriqueña de Gimnasia Gimnasia” -**Software Engineering Course**
+1-Prototype for ”Federación Puertorriqueña de  Gimnasia” -**Software Engineering Course**
 
 2-Ecommerce **-Databases Course**
 
 3-Biology Study App **-Mobile Applications Course**
 
+## EDUCATION 
+
+University of Puerto Rico at Arecibo
+
+2015-2020
+
+Bachelor Degree in Computer Science
+
+Minor in Design and Development of Web Applications, 
+
+**ABET ACCREDITED**
 
 ## References 
 
-**1- Ángel L. Pérez**
+**1- Ángel L. Pérez Galarza**
 
-Galarza Vice President
+Vice President
 
 Rock Solid Technologies,Inc.
 
