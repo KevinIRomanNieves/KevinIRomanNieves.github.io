@@ -78,7 +78,7 @@
 
 3-Biology Study App **-Mobile Applications Course**
 
-- https://github.com/KevinIRomanNieves/Biology-Study-App
+[https://github.com/KevinIRomanNieves/Biology-Study-App]
 
 ## EDUCATION 
 
