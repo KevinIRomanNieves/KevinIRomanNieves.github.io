@@ -74,13 +74,13 @@
 
 1-Prototype for ”Federación Puertorriqueña de  Gimnasia” -**Software Engineering Course**
 
-[https://github.com/KevinIRomanNieves/Gymnastics-Public]
+**https://github.com/KevinIRomanNieves/Gymnastics-Public**
 
 2-Ecommerce **-Databases Course**
 
 3-Biology Study App **-Mobile Applications Course**
 
-[https://github.com/KevinIRomanNieves/Biology-Study-App]
+**https://github.com/KevinIRomanNieves/Biology-Study-App**
 
 ## EDUCATION 
 
@@ -124,4 +124,4 @@ San Rafael Cooperativa
 
 **Email:** kevin.roman12@upr.edu or romankevin12@gmail.com 
 
-**LinkedIn:** [https://www.linkedin.com/in/kevin-i-roman-nieves-679298149/]
+**LinkedIn:** https://www.linkedin.com/in/kevin-i-roman-nieves-679298149/
