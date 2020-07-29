@@ -85,7 +85,9 @@
 **https://github.com/KevinIRomanNieves/Biology-Study-App**
 
 ## Udemy Course Project
-1-Master en JavaScript:  JS, jQuery, Angular, NodeJS
+1-Master en JavaScript:  JS, jQuery, Angular, NodeJS  **https://github.com/KevinIRomanNieves/Master-en-JavaScript**
+
+  Course Link - **https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/**
 
 
 
