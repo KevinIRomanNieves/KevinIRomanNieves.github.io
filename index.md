@@ -20,6 +20,32 @@
 
 ## WORK EXPERIENCE:
 
+**INGELLICOM**
+
+**11/2021 – Present**
+
+**Software Developer**
+
+**Responsibilities:**
+
+• System Integration Testing
+
+• Validation and Development of Test Cases on HPQC platform.
+
+• Documentation and approval of Phases on Project plan.
+
+• Use of Postman Tool for Api validation
+
+• Use of SOAP UI Tool for Api validation
+
+• Work with UAT and Development team on solution Book and requirements approval.
+
+• Multicultural Team workflow on daily meeting using Microsoft Team.
+
+• Work for Claro Puerto Rico DX1 project
+
+• Certification : Microsoft Power Platform Developer Associate (On Progress)
+
 
 **Rock Solid Technologies, Inc.**
 
